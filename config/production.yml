@@ -1,0 +1,5 @@
+server:
+  origin:  http://task-management-frontend-jg.s3-website-us-east-1.amazonaws.com
+
+db:
+  syncronize: false
